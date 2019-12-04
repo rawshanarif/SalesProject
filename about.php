@@ -65,8 +65,10 @@ if ($_SESSION['logged_in'] == TRUE) {
                               <ion-icon name="close"></ion-icon>
                         </div>
                         <ul>
-                              <li><a href="index.html">The Empire</a></li>
-                              <li><a href="about.html">Story of the Dark Side</a></li>
+                              <li><a href="index.php">The Empire</a></li>
+                                <li><a href="about.php">Story of the Dark Side</a></li>
+                                <li><a href="contact.php">Contact The Sith Lords</a></li>
+                                <li><a href="table.php">Sith Lord Information</a></li>
                               
                               
                         </ul>
